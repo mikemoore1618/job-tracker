@@ -1,0 +1,25 @@
+{
+    "jobs": [
+        {
+            "company": "Google",
+            "position": "Junior Developer",
+            "salary": 75,
+            "remote": false,
+            "benefits": true
+        },
+        {
+            "company": "WildaBeest",
+            "position": "Junior Developer",
+            "salary": 65,
+            "remote": true,
+            "benefits": false
+        },
+        {
+            "company": "General Assembly",
+            "position": "Tutor",
+            "salary": 30,
+            "remote": false,
+            "benefits": false
+        }
+    ]
+}
